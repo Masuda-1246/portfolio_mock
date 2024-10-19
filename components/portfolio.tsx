@@ -42,7 +42,7 @@ export function PortfolioComponent() {
       {/* Hero Section */}
       <section className="pt-20 pb-12 md:pt-32 md:pb-24 bg-gradient-to-r from-[#48CFCB] to-[#229799] text-white">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-6xl font-bold mb-4">I'm Your Name</h1>
+          <h1 className="text-4xl md:text-6xl font-bold mb-4">I&apos;m Your Name</h1>
           <p className="text-xl md:text-2xl mb-8">A Software Engineer Specializing in Your Specialty</p>
           <div className="flex justify-center space-x-4">
             <Button variant="secondary" asChild>
@@ -69,7 +69,7 @@ export function PortfolioComponent() {
             <div>
               <h2 className="text-3xl font-bold mb-4">About Me</h2>
               <p className="text-lg mb-4">
-                Here's a brief introduction about yourself. Highlight your strengths, passion, and what makes you unique as a software engineer.
+                Here&apos;s a brief introduction about yourself. Highlight your strengths, passion, and what makes you unique as a software engineer.
               </p>
               <div className="flex space-x-4">
                 <Link href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
